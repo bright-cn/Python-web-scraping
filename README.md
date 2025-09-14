@@ -7,7 +7,7 @@
 由于语法简洁且拥有大量开源库，Python 被广泛认为是[最适合网页抓取的语言之一](https://www.bright.cn/blog/web-data/best-languages-web-scraping)。现在就来深入了解吧！
 
 ## 目录
-- [Python 中的网页抓取逻辑](#web-scraping-logic-in-python)
+- [Python 中的网页抓取逻辑](#Python-中的网页抓取逻辑)
 - [Python 网页抓取库](#python-web-scraping-libraries)
    * [HTTP 客户端](#http-clients)
    * [HTML 解析器](#html-parsers)
