@@ -30,7 +30,7 @@
    * [导出为 CSV](#导出为-CSV)
    * [导出为 JSON](#导出为-JSON)
 - [Python 网页抓取示例](#Python-网页抓取示例)
-   * [1. Requests + Beautiful Soup](#1-Requests-Beautiful-Soup)
+   * [1. Requests + Beautiful Soup](#1-Requests-+-Beautiful-Soup)
    * [2. Selenium](#2-Selenium)
    * [Scrapy](#Scrapy)
 - [Python 网页抓取的挑战](#Python-网页抓取的挑战)
